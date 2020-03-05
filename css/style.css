@@ -1,0 +1,12 @@
+.form-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.import-csv-input {
+    margin: 10px 0;
+}
+
+#import-csv-result {
+    font-size: 20px;
+}
